@@ -1,6 +1,6 @@
 import styles from "./add.module.css";
 import avatar from "@/assets/avatar.png";
-import counter from "../../store/Counter";
+import counter from "@/store/Counter";
 import { observer } from 'mobx-react';
 
 interface WrapperProps {
